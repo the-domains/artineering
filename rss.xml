@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Artineering - Santiago Montesdeoca]]></title>
         <description><![CDATA[Artineering - Santiago Montesdeoca]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://artineering.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 03:02:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 06:48:04 GMT</lastBuildDate>
+        <atom:link href="http://artineering.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An investigation of fast real-time GPU-based image blur algorithms]]></title>
+            <description><![CDATA[<article><h1>An investigation of fast real-time GPU-based image blur algorithms</h1><p>In this blog post I'm going to start exploring the topic of blur filters. My original intention was to... - Provide an overview and optimization ideas for a few of the popular real time image blur filters, applicable on very different range of hardware (from sub-4W mobile device GPUs to high end 250W+ desktop GPUs).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/353ba2dd7fc77de9a106f8f76defed511f93d99b.png"></article>]]></description>
+            <link>https://software.intel.com/en-us/blogs/2014/07/15/an-investigation-of-fast-real-time-gpu-based-image-blur-algorithms</link>
+            <guid isPermaLink="false">62765380-5651-477a-8ef3-cebd3777a275</guid>
+            <pubDate>Mon, 11 Jan 2016 06:47:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefinededf8f7b8-a588-4eaa-8a63-e8e2fad4fcc5/index.html</link>
+            <link>http://artineering.io/edf8f7b8-a588-4eaa-8a63-e8e2fad4fcc5/index.html</link>
             <guid isPermaLink="false">edf8f7b8-a588-4eaa-8a63-e8e2fad4fcc5</guid>
             <pubDate>Wed, 06 Jan 2016 03:02:04 GMT</pubDate>
         </item>
