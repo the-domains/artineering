@@ -4,8 +4,15 @@
         <description><![CDATA[Artineering - Santiago Montesdeoca]]></description>
         <link>http://artineering.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 05:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jan 2016 05:54:12 GMT</lastBuildDate>
         <atom:link href="http://artineering.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An investigation of fast real-time GPU-based image blur algorithms]]></title>
+            <description><![CDATA[<article><h1>An investigation of fast real-time GPU-based image blur algorithms</h1><p>In this blog post I'm going to start exploring the topic of blur filters. My original intention was to... - Provide an overview and optimization ideas for a few of the popular real time image blur filters, applicable on very different range of hardware (from sub-4W mobile device GPUs to high end 250W+ desktop GPUs).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7d9310c7be83bd23c1fa4589bdd7abd1009eded.png"></article>]]></description>
+            <link>https://software.intel.com/en-us/blogs/2014/07/15/an-investigation-of-fast-real-time-gpu-based-image-blur-algorithms</link>
+            <guid isPermaLink="false">293f694b-b2b1-4ec2-bbe4-903c932f9ba8</guid>
+            <pubDate>Tue, 19 Jan 2016 05:53:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
